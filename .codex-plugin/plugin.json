@@ -1,0 +1,32 @@
+{
+  "name": "presalespluginv1",
+  "version": "0.1.0",
+  "description": "Presales and bid workflow skills for IBM-style B2B proposal projects.",
+  "author": {
+    "name": "Johnny Cui"
+  },
+  "keywords": [
+    "presales",
+    "bid",
+    "proposal",
+    "sap",
+    "ibm"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "PreSales Plugin V1",
+    "shortDescription": "Presales and bid proposal workflow skills.",
+    "longDescription": "A local Codex plugin containing staged presales research, solution, page-output, bid playbook, and technical proposal skills.",
+    "developerName": "Johnny Cui",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "defaultPrompt": [
+      "初始化售前项目",
+      "整理售前素材库",
+      "输出方案页面内容"
+    ],
+    "brandColor": "#2563EB"
+  }
+}
