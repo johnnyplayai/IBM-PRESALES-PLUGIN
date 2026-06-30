@@ -1,0 +1,18 @@
+{
+  "name": "ibm-presales-plugin",
+  "owner": {
+    "name": "Johnny Cui"
+  },
+  "plugins": [
+    {
+      "name": "presales-plugin",
+      "displayName": "PreSales Plugin V1",
+      "source": ".",
+      "description": "Presales and bid workflow skills for IBM-style B2B / SAP proposal projects: project init, material library, solution narrative, page-output prompts, bid playbook, and technical proposal.",
+      "category": "productivity",
+      "author": {
+        "name": "Johnny Cui"
+      }
+    }
+  ]
+}

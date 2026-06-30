@@ -1,0 +1,15 @@
+{
+  "name": "presales-plugin",
+  "version": "0.1.0",
+  "description": "Presales and bid workflow skills for IBM-style B2B proposal projects.",
+  "author": {
+    "name": "Johnny Cui"
+  },
+  "keywords": [
+    "presales",
+    "bid",
+    "proposal",
+    "sap",
+    "ibm"
+  ]
+}
